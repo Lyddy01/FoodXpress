@@ -8,4 +8,4 @@ The FoodieXpress project is an application that connects app users (customers) w
 * Access to various menus offered by onboarded restaurants.
 * "Add to Cart" feature for selected menu items.
 * Payment verification through a third-party API (Paystack).
-* Generation of a TrackID for orders placed for delivery purposes.hould be used with caution.
+* Generation of a TrackID for orders placed for delivery purposes.
